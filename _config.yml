@@ -1,11 +1,11 @@
 # Site settings
-author: Sarah H
-title: 
+author: Sarah Henderson
+title: Sarah's Blog
 header-img: img/home-bg.png
 email: sarahrose.henderson@gmail.com
-copyright_name: Sarah H
+copyright_name: Sarah Henderson
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Coding stuff
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  srosiex
