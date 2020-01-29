@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "JS-Rails Project"
-date:       2020-01-29 03:48:28 +0000
+date:       2020-01-28 22:48:29 -0500
 permalink:  js-rails_project
 ---
 
@@ -10,4 +10,4 @@ I finally made it to Javascript! For this project, I created a single page appli
 
 One of the most time consuming and confusing parts of the project was the user authentication using JWT token. Luckily my awesome Pod Lead has videos that I was able to follow for help setting it up. After setting up the user auth and the back-end, I started working on the front end.
 
-The user can create, edit, and delete a task. I plan on eventually adding a notes option so that the user can reflect on the task and update their mood for the day.
+The user can create, edit, and delete a task. I'm still working out a few bugs and functionalities. I also plan on eventually adding a notes option so that the user can reflect on the task and update their mood for the day.
