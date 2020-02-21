@@ -25,13 +25,10 @@ I really wracked my brain trying to figure out how to create the associations fo
 
 For routes I have links for 'Home', 'Plans', and 'Habits'. Then under plans I have nested routes so that the user can either view all days of the planner, or click on the individual day.
 
-<img src="https://imgur.com/HhWi2Ec">
-
 
 For the planner, the user can create a new plan for each day or delete plans. 
-![](https://imgur.com/enFaRWI)
 
-For habits, the user can create a new habit and select a goal number of days. Once the user has completed the habit for the day, they can click on the day and it changes color to signify that the event has been completed.(shown below) I haven't hooked this part up to the server side yet, but I'm still working on it.
-![](https://imgur.com/Bee3Vr9)
+For habits, the user can create a new habit and select a goal number of days. Once the user has completed the habit for the day, they can click on the day and it changes color to signify that the event has been completed. I haven't hooked this part up to the server side yet, but I'm still working on it.
+
 
 Overall, I really had fun with this project. It was really challenging and I have learned a lot. There are still several things I would like to get complete on this and I plan to keep working on it.
