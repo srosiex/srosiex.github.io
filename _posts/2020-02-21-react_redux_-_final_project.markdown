@@ -7,16 +7,16 @@ permalink:  react_redux_-_final_project
 
 
 The requirements for the final project are as followed:
--HTML page to render the react-redux app
--2 container components 
--5 stateless components
--3 routes
--Use react-router
--Redux middleware to respond and modify state change
--Use async actions to send and receive data from a server
--Rails API should handle data persistence - Use a GET and POST fetch
--Client side should handle the display of data
--Should have some styling with either bootstrap
+* HTML page to render the react-redux app
+* 2 container components 
+* 5 stateless components
+* 3 routes
+* Use react-router
+* Redux middleware to respond and modify state change
+* Use async actions to send and receive data from a server
+* Rails API should handle data persistence - Use a GET and POST fetch
+* Client side should handle the display of data
+* Should have some styling with either bootstrap
 
 
 For my final project, I thought it would be cool to do a combination of a planner and a habit tracker. I wanted users to be able to be able to track their activities and plan out their week all in one place like a traditional journal.
