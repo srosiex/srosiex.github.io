@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "React Redux - Final Project"
-date:       2020-02-21 18:14:00 +0000
+date:       2020-02-21 13:14:01 -0500
 permalink:  react_redux_-_final_project
 ---
 
@@ -25,7 +25,8 @@ I really wracked my brain trying to figure out how to create the associations fo
 
 For routes I have links for 'Home', 'Plans', and 'Habits'. Then under plans I have nested routes so that the user can either view all days of the planner, or click on the individual day.
 
-![](https://imgur.com/HhWi2Ec)
+<img src="https://imgur.com/HhWi2Ec">
+
 
 For the planner, the user can create a new plan for each day or delete plans. 
 ![](https://imgur.com/enFaRWI)
