@@ -23,7 +23,7 @@ For my final project I created a simple recipe application. Users are able to cr
 
 The user can then click on the recipe to view the details of the recipe such as the directions and ingredients. On the show page, users are also able to make comments and have them render immediately once submitted.
 
-Below is an example of a container component. It is a class component which houses the state for filtering the recipes, and provides the recipe props down to the recipe component. (Sorry the photos are huge, I'll have to update this.)
+Below is an example of a container component. It is a class component which houses the state for filtering the recipes, and provides the recipe props down to the recipe component.
 
 ![](https://i.imgur.com/w2eHdtF.png)
 ![](https://i.imgur.com/TaEuX9l.png)
