@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Why Software Engineering"
-date:       2020-06-09 03:58:03 +0000
+date:       2020-06-08 23:58:04 -0400
 permalink:  why_software_engineering
 ---
 
 
-I was worked in mortgage servicing for about eight years and decided I wanted to do something more challenging. My mom's husband is a data analyst and recommended taking some SQL classes. I took the beginners SQL, and Intermediate classes online at the community college and really liked it. I reached out to the data analyst group at my work and was able to sit and watch them work to see if it's something I would be interested in pursuing. I was planning on asking what I could do to get transferred to the data analyst team when the company shut down basically the entire Texas office, and I was laid off.
+I worked in mortgage servicing for about eight years and decided I wanted to do something more challenging. My mom's husband is a data analyst and recommended taking some SQL classes. I took the beginners SQL, and Intermediate classes online at the community college and really liked it. I reached out to the data analyst group at my work and was able to sit and watch them work to see if it's something I would be interested in pursuing. I was planning on asking what I could do to get transferred to the data analyst team when the company shut down basically the entire Texas office, and I was laid off.
 
 I took that as an opportunity to start looking into what I could do to get more experience and education with SQL, and came across some bootcamps. I noticed a lot of bootcamps offered software engineering as well as data analysis, and after a ton of research I decided to reach out to Flatiron School and jump into the software engineering free course. After a while of taking the free course my whole view changed on programming. It was definitely something I never expected that I could do! 
 
